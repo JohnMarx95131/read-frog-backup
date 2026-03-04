@@ -1,5 +1,11 @@
 # @read-frog/extension
 
+## 1.27.2
+
+### Patch Changes
+
+- [#1045](https://github.com/mengxi-ream/read-frog/pull/1045) [`77f1e48`](https://github.com/mengxi-ream/read-frog/commit/77f1e4809575f3a72e869dbfe0b5fb44c24bf531) Thanks [@mengxi-ream](https://github.com/mengxi-ream)! - fix: override Firefox MV3 default CSP to prevent HTTP URLs from being upgraded to HTTPS
+
 ## 1.27.1
 
 ### Patch Changes
